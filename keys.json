@@ -1,5 +1,13 @@
 {
   "keys": [
-    "AAC-Y4JL-7BQP-NA53-LA53"
+    "AAC-Y4JL-7BQP-NA53-LA53",
+    {
+      "key": "AAC-8WG4-CCQP-NA53-LA53",
+      "webhook": "https://discord.com/api/webhooks/1479437549113053236/rcQvHG7ntuZO6psAMq3lFlegpQ8bjpI6bH7aTV4gYIZ1I1Rmv4mHzqsDfCrAVoLPlR39",
+      "serverName": "afl",
+      "adminId": "873556595815104642",
+      "adminUsername": "vzwu6.",
+      "createdAt": "2026-03-06T14:14:45.770Z"
+    }
   ]
 }
